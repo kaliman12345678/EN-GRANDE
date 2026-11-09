@@ -20,7 +20,7 @@ Plataforma orientada al crecimiento espiritual, la reconexión armónica con la 
 * **Razón Social:** FUNDACION ENGRANDE
 * **Sigla:** ENGRANDE
 * **NIT:** 900323466-1
-* **Sede Principal:** Calle 80 # 52 20, Medellín, Antioquia, Colombia
+* **Sede Principal:** Calle 80 # 52 20, Código Postal 050010, Medellín, Antioquia, Colombia
 * **Teléfono:** 3108246952
 * **Correo Institucional:** talentohumano@engrande.online
 * **Sitio Web:** www.engrande.online
